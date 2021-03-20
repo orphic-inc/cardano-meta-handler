@@ -1,3 +1,14 @@
+## JSON => ELK => gCloud Serial API (SSE3 Support)
+
+Node.JS (CURSOR // Iterative)
+
+Ruby (PAJI // Pagination || Jekyll || Svelte !! gCloud || AWS)
+https://github.com/orphic-inc/ruby-orphic-cli/blob/main/README.md
+
+
+### DOCS / DIRECTIONAL // todo
+https://github.com/obrien-k/reach-bigcommerce-checkout/blob/main/README.md
+
 # Overview
 
 This a PoC for encapsulating HTTP responses on Cardano chain that can be retrieved via cardano-graphql using custom URI `cardano+metadata://$TX_ID?network=$NETWORK&key=$METADATUM_LABEL&type=http-response`.
